@@ -15,7 +15,7 @@ Create an asynchronous web app that uses Web API and user data to dynamically up
 [Project rubric](https://review.udacity.com/#!/rubrics/4671/view)
 
 ## Requirements
-To run the code refer to the node packages:
+To run the code install [node](https://nodejs.org/en/download/) and refer to used packages:
 
 ### Packages
 - express
