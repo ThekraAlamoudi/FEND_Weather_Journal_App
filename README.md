@@ -1,4 +1,4 @@
-﻿# Weather_Journal_App
+﻿# Weather Journal App
 
 ## Introduction
 Create an asynchronous web app that uses Web API and user data to dynamically update the UI for a Weather-Journal App.
@@ -25,6 +25,7 @@ To run the code install [node](https://nodejs.org/en/download/) and refer to use
 ```
 npm install express
 npm install body-parser
+npm install cors
 ```
 
 
