@@ -32,6 +32,6 @@ npm install cors
 ## Live
 - Open cmd in project directory
 - Type node server
-- Open index.html
+- In browser open localhost:8080
 - Enter zip code and feeling
 - Click generate
