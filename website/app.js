@@ -1,7 +1,7 @@
 
 // Create a new date instance dynamically with JS
 let d = new Date();
-let newDate = d.getMonth() + '.' + d.getDate() + '.' + d.getFullYear();
+let newDate = d.getMonth() + 1 + '.' + d.getDate() + '.' + d.getFullYear();
 
 /* Global Variables */
 const apiKey = '23fef9fc8b429e4a1cd44d60e98563bf&units=metric';
